@@ -20,8 +20,7 @@ Este é o repositório para o site [Conhecendo C#](https://conhecendocsharp.netl
 
 O site está hospedado online e pode ser acessado através do seguinte link:
 
-
-https://lauanetoledo.netlify.app/ 
+https://conhecendocsharp.netlify.app/
 (link-do-site)
 
 ### 🗳️ Código-fonte
@@ -37,74 +36,48 @@ https://github.com/lautoledo/site-HTML-e-CSS-basico
 
 ## ◼️ Linguagens utilizadas
 
-* [HTML](https://github.com/lautoledo/curriculo-virtual/blob/main/index.html)- HyperText Markup Language
-* [CSS](https://github.com/lautoledo/curriculo-virtual/blob/main/styles.css) - Cascading Style Sheets
+* [HTML](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/index.html)- HyperText Markup Language
+* [CSS](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/styles.css) - Cascading Style Sheets
 
 
 
 ### 📱 Imagens Utilizadas
 
-As imagens utilizadas no desenvolvimento do site estão disponíveis no seguinte link:
-
-
+As imagens utilizadas no desenvolvimento do site estão disponíveis abaixo:
+* [Foto de Anders Hejlsberg](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/Anders_Hejlsberg.jpg)
+* [Logo da linguagem C#](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/c-sharp%20logo.webp)
+* [Ícon da linguagem C#](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/icon.webp)
 
 ### 📸 Capturas de Tela
 
 Aqui estão algumas capturas de tela do site:
                                                         
-#### Página Inicial
+#### Tela Home
 
-![print_pagina_inicial](https://github.com/lautoledo/curriculo-virtual/blob/main/pagina%20inicial.png)
-
-link do Google Drive:
-
-https://drive.google.com/file/d/1KXPKU43X7ovZGV3wteXyTDYvTsSVThnB/view?usp=sharing
+![print_tela_home](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20home.png)
  
-#### Página Sobre 
+#### Tela de Conteúdo
 
-![print_sobre_mim](https://github.com/lautoledo/curriculo-virtual/blob/main/sobre%20mim.png)
+![print_conteudo](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20conte%C3%BAdo.png)
 
-link do Google Drive:
-
-https://drive.google.com/file/d/13xdBatjIIyiaK_Zx2N7VGs5wWVt9w5Ma/view?usp=sharing
  
-#### Página Formação Acadêmica
+#### Tela de Tutorial
 
-![print_formacao](https://github.com/lautoledo/curriculo-virtual/blob/main/forma%C3%A7%C3%A3o%20academica.png)
+![print_tutorial](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20tutorial.png)
 
-link do Google Drive:
-
-https://drive.google.com/file/d/1jDw9JKJOlQGSNNzZqklceuVuISMPJudB/view?usp=sharing
  
-#### Página Contato
+#### Tela de Curiosidades e Contato
 
-![print_contato](https://github.com/lautoledo/curriculo-virtual/blob/main/contato.png)
+![print_contato](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20curiosidades%20e%20contato.png)
 
-link do Google Drive:
-
-https://drive.google.com/file/d/1DhcZjbNdGDqX8gv2BxW8X7XuQiB6jQB8/view?usp=sharing
-
-
-## Como Contribuir
-
-Se você quiser contribuir com o projeto, siga as etapas abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch para sua contribuição.
-3. Faça suas alterações e teste-as localmente.
-4. Envie um pull request para análise.
 
 ## Como Fazer Perguntas
 
 Se você tiver dúvidas ou sugestões, pode abrir uma issue neste repositório ou entrar em contato através do formulário de contato no site.
 
-## Licença
+## Inspiração
 
-Este projeto está licenciado sob a licença [MIT](LICENSE), o que significa que você pode usar, modificar e distribuir o código conforme desejar.
-
-## Autor
-
-Este projeto foi criado por Gustavo Guanabara para o [Curso em Vídeo](https://www.cursoemvideo.com/).
+Este projeto foi inspirado pelo projeto de Gustavo Guanabara para o [Curso em Vídeo](https://www.cursoemvideo.com/).
 
 ## Agradecimentos
 
