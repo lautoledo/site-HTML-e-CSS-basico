@@ -5,7 +5,7 @@
 
 Este é o repositório para o site [Conhecendo C#](https://conhecendocsharp.netlify.app/), um projeto que visa introduzir os conceitos básicos de programação em C# e a história da linguagem. O site oferece uma visão geral sobre C#, sua origem, sintaxe, estruturas de dados e programação orientada a objetos.
 
-## Conteúdo do Site
+## 📔 Conteúdo do Site
 
 - **Introdução ao C#**: Uma visão geral da linguagem e sua história.
 - **Por que aprender C#?**: Razões para escolher C# como linguagem de programação.
