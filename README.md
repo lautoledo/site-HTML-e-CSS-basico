@@ -77,8 +77,4 @@ Este projeto foi inspirado pelo projeto de Gustavo Guanabara para o [Curso em V�
 
 ## Agradecimentos
 
-Agradecemos a todos os colaboradores e visitantes que estão ajudando a melhorar o projeto!
-
----
-
 Obrigado por visitar o repositório do projeto! Esperamos que você encontre as informações úteis e aprenda bastante sobre C#.
