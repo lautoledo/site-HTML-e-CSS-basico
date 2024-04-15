@@ -66,12 +66,12 @@ Aqui estão algumas capturas de tela do site:
 ![print_tutorial](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20tutorial.png)
 
  
-#### Tela de Curiosidades e Contato
+#### Tela de Curiosidades e Contato:
 
 ![print_contato](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20curiosidades%20e%20contato.png)
 
 
-## Inspiração
+## Inspiração 🪄
 
 Este projeto foi inspirado pelo projeto de Gustavo Guanabara para o [Curso em Vídeo](https://www.cursoemvideo.com/).
 
