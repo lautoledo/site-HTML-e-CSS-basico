@@ -75,6 +75,6 @@ Aqui estão algumas capturas de tela do site:
 
 Este projeto foi inspirado pelo projeto de Gustavo Guanabara para o [Curso em Vídeo](https://www.cursoemvideo.com/).
 
-## Agradecimentos
+## Agradecimentos 📉
 
 Obrigado por visitar o repositório do projeto! Esperamos que você encontre as informações úteis e aprenda bastante sobre C#.
