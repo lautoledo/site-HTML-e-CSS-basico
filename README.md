@@ -52,21 +52,21 @@ As imagens utilizadas no desenvolvimento do site estão disponíveis abaixo:
 
 Aqui estão algumas capturas de tela do site:
                                                         
-#### Tela Home
+#### 🟪 Tela Home:
 
 ![print_tela_home](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20home.png)
  
-#### Tela de Conteúdo
+#### 🟪 Tela de Conteúdo:
 
 ![print_conteudo](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20conte%C3%BAdo.png)
 
  
-#### Tela de Tutorial
+#### 🟪 Tela de Tutorial:
 
 ![print_tutorial](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20tutorial.png)
 
  
-#### Tela de Curiosidades e Contato:
+#### 🟪 Tela de Curiosidades e Contato:
 
 ![print_contato](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20curiosidades%20e%20contato.png)
 
