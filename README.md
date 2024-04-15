@@ -71,10 +71,6 @@ Aqui estão algumas capturas de tela do site:
 ![print_contato](https://github.com/lautoledo/site-HTML-e-CSS-basico/blob/main/tela%20de%20curiosidades%20e%20contato.png)
 
 
-## Como Fazer Perguntas
-
-Se você tiver dúvidas ou sugestões, pode abrir uma issue neste repositório ou entrar em contato através do formulário de contato no site.
-
 ## Inspiração
 
 Este projeto foi inspirado pelo projeto de Gustavo Guanabara para o [Curso em Vídeo](https://www.cursoemvideo.com/).
